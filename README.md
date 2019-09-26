@@ -8,7 +8,7 @@ Cobertura Sprint 01
 
 Cobertura Sprint 02
 
-![Alt text](/coverage/sprint-02/coverage.png "Cobertura")
+![Alt text](coverage/sprint-02/coverage.png "Cobertura")
 
 # Utilizando
 
